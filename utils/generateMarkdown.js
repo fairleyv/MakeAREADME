@@ -66,8 +66,7 @@ function generateMarkdown(data) {
   [License](#license)\n
   [Contributions](#contributions)\n
   [Tests](#tests)\n
-  [Questions](#questions)\n
-  `
+  [Questions](#questions)\n`
   } else {
     readme = readme + `## Table of Contents\n
   N/A\n`
