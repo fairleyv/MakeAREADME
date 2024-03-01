@@ -24,7 +24,7 @@
 
   [Questions](#questions)
 
-  ## Installation
+## Installation
 
 Installation for this project will be found in the readme for this project 
 
