@@ -70,8 +70,7 @@ function generateMarkdown(data) {
   `
   } else {
     readme = readme + `## Table of Contents\n
-  N/A\n
-  `
+  N/A\n`
   };
   readme = readme + `## Installation\n
 ${data.installation} \n
@@ -84,7 +83,7 @@ ${renderLicenseSection(data.licenses)} \n
 ## Contributions \n
 ${data.contributions} \n
 ## Tests \n
-${data.tests}
+${data.tests}\n
 ## Questions \n
 For any questions regarding this project please contact me at my -\n
 GitHub: [${data.username}](https://github.com/${data.username}) \n

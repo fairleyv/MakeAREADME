@@ -24,7 +24,7 @@
 
   [Questions](#questions)
 
-  ## Installation
+## Installation
 
 Go ahead and install it, buddy. I know you want to. 
 
@@ -47,6 +47,7 @@ Contribute and also send my wife some money. She loves presents.
 ## Tests 
 
 Testing is always cool. But never on Animals. Don't be a monster. Be vegan.
+
 ## Questions 
 
 For any questions regarding this project please contact me at my -
