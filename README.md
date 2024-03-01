@@ -1,6 +1,6 @@
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://opensource.org/licenses/gpl-3.0)
 
-# README Generator 
+# README Generator  
 
 ## Description 
 
@@ -24,7 +24,7 @@
 
   [Questions](#questions)
 
-## Installation
+  ## Installation
 
 Go ahead and install it, buddy. I know you want to. 
 
@@ -38,10 +38,20 @@ Me, Myself, and My wife. She guides everything that I do. And Everything I accom
 
 ## License 
 
-This project is covered under the MIT license. 
+This project is covered under the GPLv3 license. 
  
 ## Contributions 
 
-Contribute and also send my wife some money. She loves presents. 
+Contribute and also send my wife some money. She loves presents.  
 
 ## Tests 
+
+These are test stuff. Animal testing is bad by the way. I think you should follow in my wife's footsteps and be vegetarian.
+
+## Questions 
+
+For any questions regarding this project please contact me at my -
+
+GitHub: [Fairleyv](https://github.com/Fairleyv) 
+
+Email: N/A
