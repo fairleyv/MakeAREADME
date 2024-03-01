@@ -1,10 +1,10 @@
-[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Title 
+# README Generator 
 
 ## Description 
 
-	 desc 
+	 Description. Also, I love my wife!!!! <3 
 
 ## Table of Contents
 
@@ -22,27 +22,26 @@
 
   [Tests](#tests)
 
-  ## Installation
+  [Questions](#questions)
 
-install 
+## Installation
+
+Go ahead and install it, buddy. I know you want to. 
 
 ## Usage 
 
-use 
+Use it. But don't abuse it. 
 
 ## Credits 
 
-me 
+Me, Myself, and My wife. She guides everything that I do. And Everything I accomplish is also her accomplishments. 
 
 ## License 
 
-This project is covered under the BSD_3--Clause license. 
+This project is covered under the MIT license. 
  
 ## Contributions 
 
-contri 
+Contribute and also send my wife some money. She loves presents. 
 
 ## Tests 
-
-test
-# MakeAREADME
