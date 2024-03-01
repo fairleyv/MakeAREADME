@@ -32,6 +32,8 @@ Installing this project is done by downloading the code within the MAKEAREADME r
 
 The application is accessed through the terminal from the file location of the index.js file in the application. You must have node installed in order to run this application as well as Inquirer v.8.2.4. To run the application you must run node index.js in the terminal. This will prompt the terminal to ask a set of questions that will be used to generate your README markdown file. The file name must follow general file naming conventions including not containing spaces, forward slashes, or other characters that cannot be included in a file name. Once the questions are finished the console will log "Success!" and the readme file with the provided name will be generated.  
 
+[MAKEAREADMEdemo.webm](https://github.com/fairleyv/MakeAREADME/assets/126346803/0b072018-032a-4759-92db-e21cd8359ed1)
+
 ## Credits 
 
 BootcampSpot provided starter code for this project. This project also utilizes inquirer v8.2.4 .  
