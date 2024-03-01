@@ -66,6 +66,7 @@ function generateMarkdown(data) {
   [License](#license)\n
   [Contributions](#contributions)\n
   [Tests](#tests)\n
+  [Questions](#questions)\n
   `
   } else {
     readme = readme + `## Table of Contents\n
@@ -84,6 +85,10 @@ ${renderLicenseSection(data.licenses)} \n
 ${data.contributions} \n
 ## Tests \n
 ${data.tests}
+## Questions \n
+For any questions regarding this project please contact me at my -\n
+GitHub: [${username}](https://github.com/${username}) \n
+Email: ${email}
 `;
 return readme;
 }
