@@ -87,8 +87,8 @@ ${data.contributions} \n
 ${data.tests}
 ## Questions \n
 For any questions regarding this project please contact me at my -\n
-GitHub: [${username}](https://github.com/${username}) \n
-Email: ${email}
+GitHub: [${data.username}](https://github.com/${data.username}) \n
+Email: ${data.email}
 `;
 return readme;
 }
